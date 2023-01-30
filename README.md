@@ -1,4 +1,4 @@
-# Mercado Traffice Challenge 11
+# Mercado Traffic Challenge 11
 This is a Jupyter Notebook that does time series and Facebook Prophet predictions. This was made on Google CoLab and looks at Google trending search and Mercado to help marketing efforts and stock predictoins. Using HvPlots we can get a better understanding for when to market and volitilty of the market.
 ---
 
